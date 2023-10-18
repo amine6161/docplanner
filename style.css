@@ -1,0 +1,198 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: #747474;
+}
+
+.ahla{
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    
+}
+.nav-links{
+    display: flex;
+    width: 278px;
+    justify-content: space-between;
+    list-style: none;
+    
+}
+#About{
+    color: #00b39b
+}
+#azerty{
+    width: 30%;
+}
+
+.text{ 
+    text-decoration: none;
+    color: #ababab;
+
+}
+.main {
+    width: 40px;
+    height: 33px;
+    display: block;
+    margin: 0 auto;
+}
+.main h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+
+}
+.begin{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#ig{
+    font-size: 2.125rem;
+    color: #00b39b;
+}
+.paragraphe{
+    width: 59%;
+    display: flex;
+    justify-content: space-around;
+}
+
+span{
+    line-height: 26px;
+    width: 53%;
+}
+
+.centerP{
+    display: flex;
+    justify-content: center;
+}
+
+#ok{
+    border-radius: 13px;
+    padding: 25px;
+    width: 297px;
+    height: 335px;
+    background-color: #00b39b;
+    box-sizing: inherit;
+    justify-content: space-around;
+}
+#okok{
+    border-radius: 13px;
+    padding: 25px;
+    width: 297px;
+    height: 335px;
+    background-color: #3d83df;
+    box-sizing: inherit;
+    justify-content: space-around;
+} 
+#erty{
+    border-radius: 13px;
+    padding: 25px;
+    width: 297px;
+    height: 335px;
+    background-color: #1b2734;
+    box-sizing: inherit;
+    justify-content: space-around;
+    border: #1b2734;
+}
+h1,h2{
+
+    font-family: Roboto,Arial,sans-serif;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+}
+#amine{
+    display: table;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    line-height: 26px;
+    width: 74%;
+    margin: 72px;
+}
+h3{
+    color: #00b39b;
+    margin: 3%;
+}
+#TAKHTIT{
+display: flex;
+align-items: center;
+text-align: center;
+}
+#selaaam{ 
+    background: #e5faf8;
+    background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin: 63px;
+    height: 782px;
+}
+
+
+#selaaam h1{
+    font-size: 2.125rem;
+    color: #00b39b;
+    margin: 0%;
+}
+
+
+#TAKHTIT svg{
+    width: 125px;
+    height: 20px;
+    margin: 13px;
+    fill: #747474;
+}
+
+#TAKHTIT svg:hover{
+   
+    fill: #00b39b
+}
+#TAKHTIT img{
+  
+    margin: 13px;
+    filter: invert(98%) sepia(2%) saturate(0) hue-rotate(180deg) brightness(300%) contrast(0);
+}
+#TAKHTIT img:hover{
+  
+
+    filter:none
+}
+#TAKHTIT{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 57%;
+}
+
+#taktak{
+    display: flex;
+    flex-wrap: wrap;
+    width: 73%;
+}
+
+#TAKHTIT h3{
+    width: 17%;
+}
+
+.centerDali{
+    display: flex;
+    justify-content: space-around;
+}
+#block{
+   
+    width: 46%;
+    /* width: 820px; */
+    height: 336px;
+    align-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+.karina{
+    background-color: #fff;
+    width: 228px;
+    height: 250px;
+    margin: 12px;
+}
